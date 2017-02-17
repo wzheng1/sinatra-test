@@ -1,1 +1,1 @@
-# sinatra-test
+# sinatra-hot-deploy-ruby22
